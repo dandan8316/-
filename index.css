@@ -1,0 +1,73 @@
+.mui-bar {
+	height: 44px;
+}
+.mui-table-view-cell a img {
+ 
+		width: 40px;
+		height: 40px;
+	
+}
+
+
+.swiper-container {
+	width: 100mw;
+	height: 194px;
+
+}
+.swiper-container img {
+	width: 100%;
+	height: 100%;
+}
+
+
+#one {
+width: 100%;
+height: 100%
+}
+#hehe {
+	width: 100vw;
+
+}
+#hehe img{
+	width: 100%;
+}
+
+.mui-card img {
+	width: 100vw;
+}
+
+
+
+#play {
+	width: 100vw;
+	height: 225px;
+}
+#play .box1 {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+		
+}
+#play .box1 .left {
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+#play .box1 .left img {
+	width: 100%;
+	height: 100%;
+}
+#play .box1 .right {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+#play .box1 .right .top {
+	width: 160px;
+	height:112.5px;
+
+}
+#play .box1 .right .bottom {
+	width: 160px;
+	height:112.5px;
+}
